@@ -1,53 +1,35 @@
 <div align="center">
   <!-- 模拟 Gemini 星空/流光背景效果和渐变字体 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=AI-Native%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=Builder%20of%20Tools%20%7C%20Minimalist%20Coder&descAlignY=55&descSize=20&animation=twinkling" />
 
   <br />
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2a0050?style=for-the-badge&logo=minutemailer&logoColor=1E88E5" alt="Email" />
+  <a href="https://github.com/11suixing11">
+    <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-2a0050?style=for-the-badge&logo=googlemaps&logoColor=8E24AA" alt="Location" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-2a0050?style=for-the-badge&logo=googlemaps&logoColor=8E24AA" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=11suixing11&label=Profile%20Views&color=1E88E5&style=for-the-badge&base=2a0050" alt="Profile Views" />
 </div>
 
 <br />
 
-> ✨ **"Prompt is the new code, AI is the new runtime."** Exploring the intersection of human creativity and machine intelligence. 
+> ✨ **做工具的人。** 不写文章，不搞教程，只做能用的东西。
 
 <br />
 
 ### 🌌 Tech Stack
 
-融合 Gemini 配色的渐变式深色科技徽章。
-
 **Languages & Frameworks**<br />
-<img src="https://img.shields.io/badge/Python-2a0050?style=flat-square&logo=python&logoColor=1E88E5" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-2a0050?style=flat-square&logo=typescript&logoColor=1E88E5" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-2a0050?style=flat-square&logo=javascript&logoColor=1E88E5" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-2a0050?style=flat-square&logo=openjdk&logoColor=1E88E5" alt="Java" />
 
 **Frontend**<br />
-<img src="https://img.shields.io/badge/React-2a0050?style=flat-square&logo=react&logoColor=00BCD4" alt="React" />
-<img src="https://img.shields.io/badge/Vue.js-2a0050?style=flat-square&logo=vuedotjs&logoColor=00BCD4" alt="Vue" />
-<img src="https://img.shields.io/badge/HTML5-2a0050?style=flat-square&logo=html5&logoColor=00BCD4" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-2a0050?style=flat-square&logo=css3&logoColor=00BCD4" alt="CSS3" />
+<img src="https://img.shields.io/badge/React_18-2a0050?style=flat-square&logo=react&logoColor=00BCD4" alt="React" />
+<img src="https://img.shields.io/badge/Vite_5-2a0050?style=flat-square&logo=vite&logoColor=00BCD4" alt="Vite" />
+<img src="https://img.shields.io/badge/Canvas_API-2a0050?style=flat-square&logo=html5&logoColor=00BCD4" alt="Canvas API" />
 
-**Backend & APIs**<br />
-<img src="https://img.shields.io/badge/Node.js-2a0050?style=flat-square&logo=nodedotjs&logoColor=8E24AA" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-2a0050?style=flat-square&logo=fastapi&logoColor=8E24AA" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Express-2a0050?style=flat-square&logo=express&logoColor=8E24AA" alt="Express" />
-
-**AI & ML**<br />
-<img src="https://img.shields.io/badge/PyTorch-2a0050?style=flat-square&logo=pytorch&logoColor=E1BEE7" alt="PyTorch" />
-<img src="https://img.shields.io/badge/LangChain-2a0050?style=flat-square&logo=langchain&logoColor=E1BEE7" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging_Face-2a0050?style=flat-square&logo=huggingface&logoColor=E1BEE7" alt="Hugging Face" />
-
-**Tools & Platforms**<br />
-<img src="https://img.shields.io/badge/Docker-2a0050?style=flat-square&logo=docker&logoColor=4A148C" alt="Docker" />
+**State Management & Tools**<br />
+<img src="https://img.shields.io/badge/Zustand-2a0050?style=flat-square&logo=react&logoColor=8E24AA" alt="Zustand" />
 <img src="https://img.shields.io/badge/Git-2a0050?style=flat-square&logo=git&logoColor=4A148C" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-2a0050?style=flat-square&logo=linux&logoColor=4A148C" alt="Linux" />
-<img src="https://img.shields.io/badge/AWS-2a0050?style=flat-square&logo=amazonaws&logoColor=4A148C" alt="AWS" />
 
 <br />
 
@@ -64,10 +46,8 @@
 
 | Project | Description | Stars | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| **[MindMirror](#)** | 🔮 An AI-powered reflection & thinking tool | ⭐ 64 | `TypeScript`, `Next.js` |
-| **[DevFlow-Agent](#)** | 🤖 Autonomous dev agent for continuous flow | ⭐ 31 | `TypeScript`, `LLM` |
-| **[LingXu](#)** | 🌌 A beautiful, minimal static site generator | ⭐ 11 | `HTML`, `CSS` |
-| **[Skillora](#)** | 🎯 Gamified skill tracking and learning path | ⭐ 9 | `TypeScript`, `React` |
+| **[MindNotes Pro](https://github.com/11suixing11/mindnotes-pro)** | 🎨 暖色纸纹画布笔记本。3 个依赖，0 个 CDN，纯本地运行。 | ⭐ 7 | `TypeScript`, `React`, `Vite` |
+| **[11suixing11](https://github.com/11suixing11/11suixing11)** | 🌌 My personal GitHub profile repository | ⭐ 0 | `Markdown` |
 
 <div align="right">
   <a href="https://github.com/11suixing11?tab=repositories" target="_blank">View All Projects →</a>
@@ -77,8 +57,8 @@
 
 ### 🎢 Activity & Contributions
 
-**Contribution Snake** (Generates a snake eating your contributions graph!)
-*(Note: Requires GitHub Action setup to generate the SVG. Placeholder below.)*
+**Contribution Snake** 
+*(Note: Needs a GitHub Action to generate output/github-contribution-grid-snake.svg)*
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11suixing11/11suixing11/output/github-contribution-grid-snake-dark.svg">
@@ -94,13 +74,11 @@
 
 <br />
 
-### 📝 Latest Articles
+### 💡 我相信的事
 
-*(Automate this with RSS to README action)*
-- [x] 🚀 Building an Autonomous Dev Agent with LangChain
-- [x] ✨ How Gemini Pro Changed My Frontend Workflow
-- [x] 🎨 Designing Minimalist Interfaces in an AI Era
-- [x] 🧠 Why "Prompt Engineering" is just "Communication"
+- **简单是特性，不是妥协。** 没有服务器，没有账号，没有追踪。
+- **数据归你。** 一切都在浏览器的 IndexedDB 里。
+- **设计应该有温度。** 不是每个应用都要看起来像飞船。有时候你只想要一张老纸和一道柔影。
 
 <br />
 
@@ -108,10 +86,9 @@
 
 <div align="center">
   <a href="https://github.com/11suixing11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://11suixing11.github.io/mindnotes-pro/"><img src="https://img.shields.io/badge/MindNotes_Pro-Live-2a0050?style=for-the-badge&logo=react&logoColor=00BCD4" alt="MindNotes Pro" /></a>
   
   <br /><br />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=300&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=300&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11;The+best+tool+is+the+one+you+use" alt="Typing SVG Signature" />
 </div>
