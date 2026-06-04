@@ -31,6 +31,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-2a0050?style=flat-square&logo=react&logoColor=8E24AA)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-2a0050?style=flat-square&logo=html5&logoColor=00BCD4)
 ![Node.js](https://img.shields.io/badge/Node.js-2a0050?style=flat-square&logo=node.js&logoColor=8E24AA)
+![Next.js](https://img.shields.io/badge/Next.js-2a0050?style=flat-square&logo=next.js&logoColor=00BCD4)
 
 </div>
 
@@ -57,7 +58,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🎨 MindNotes Pro</h3>
       <p align="center">
         <a href="https://github.com/11suixing11/mindnotes-pro">
@@ -67,12 +68,12 @@
       <p align="center">
         <b>暖色纸纹画布笔记本，打开就能画。</b><br />
         4 个依赖，0 CDN，纯本地运行。<br />
-        <code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Canvas API</code><br /><br />
+        <code>TypeScript</code> <code>React</code> <code>Vite</code><br /><br />
         ⭐ 8 &nbsp;|&nbsp;
-        <a href="https://11suixing11.github.io/mindnotes-pro/">🔗 Live Demo</a>
+        <a href="https://11suixing11.github.io/mindnotes-pro/">🔗 Live</a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📝 Thesis Optimizer</h3>
       <p align="center">
         <a href="https://github.com/11suixing11/thesis-optimizer">
@@ -84,7 +85,22 @@
         AI 检测降痕 · 查重降重 · 学术润色 · 格式规范<br />
         <code>Python</code><br /><br />
         ⭐ 1 &nbsp;|&nbsp;
-        安装为 Claude Code / Codex Skill
+        Claude Code / Codex Skill
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌙 Quiz Platform</h3>
+      <p align="center">
+        <a href="https://github.com/11suixing11/quiz-platform">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=11suixing11&repo=quiz-platform&theme=nord&bg_color=0D1117&title_color=1E88E5&icon_color=8E24AA&text_color=A6ADC8&border_color=2a0050" alt="Quiz Platform" />
+        </a>
+      </p>
+      <p align="center">
+        <b>认识你自己 — 内在探索平台</b><br />
+        113 个心理测试 + MBTI 关系配对<br />
+        <code>TypeScript</code> <code>Next.js</code> <code>Tailwind</code><br /><br />
+        ⭐ 1 &nbsp;|&nbsp;
+        <a href="https://11suixing11.github.io/quiz-platform/">🔗 Live</a>
       </p>
     </td>
   </tr>
@@ -117,6 +133,7 @@
 <div align="center">
   <a href="https://github.com/11suixing11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://11suixing11.github.io/mindnotes-pro/"><img src="https://img.shields.io/badge/MindNotes_Pro-Live-2a0050?style=for-the-badge&logo=react&logoColor=00BCD4" alt="MindNotes Pro" /></a>
+  <a href="https://11suixing11.github.io/quiz-platform/"><img src="https://img.shields.io/badge/Quiz_Platform-Live-2a0050?style=for-the-badge&logo=next.js&logoColor=00BCD4" alt="Quiz Platform" /></a>
 </div>
 
 <br />
