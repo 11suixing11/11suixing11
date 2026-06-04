@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=%E5%81%9A%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BA%BA%20%7C%20Builder%20of%20Tools&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=%E5%BC%80%E6%BA%90%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20Open%20Source%20Creator&descAlignY=55&descSize=20&animation=twinkling" />
 
   <br />
 
@@ -15,7 +15,7 @@
 
 <br />
 
-> **做工具的人。** 不写文章，不搞教程，只做能用的东西。
+> **开源创作者。** 做打开就能用的工具，写有温度的技术文章。开源不是免费劳动，是一种表达方式。
 
 <br />
 
@@ -106,6 +106,15 @@
   </tr>
 </table>
 
+
+### ✍️ Writing & Content
+
+> 我相信好的开源项目需要好的故事。每个项目配套技术文章，讲清楚**为什么做**、**怎么想的**、**踩了什么坑**。
+
+- 📝 每个项目配套技术博客
+- 🎯 专注：前端工程化 · AI 工具链 · 产品设计哲学
+- 🌍 分发：掘金 · V2EX · 知乎 · GitHub Blog
+
 <div align="right">
   <a href="https://github.com/11suixing11?tab=repositories">View All Projects →</a>
 </div>
@@ -122,9 +131,9 @@
 
 ### 💡 理念
 
-- **简单是特性，不是妥协。** 没有服务器，没有账号，没有追踪。
-- **数据归你。** 一切都在浏览器的 IndexedDB 里。
-- **设计应该有温度。** 不是每个应用都要看起来像飞船。有时候你只想要一张老纸和一道柔影。
+- **开源是一种表达。** 不是免费劳动，是把想法变成所有人能用的东西。
+- **文章是项目的另一半。** 代码解决功能问题，文章解决认知问题。
+- **好的工具不需要说明书。** 打开就该能用，用起来就该舒服。
 
 <br />
 
@@ -140,5 +149,5 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=400&lines=%E7%AE%80%E5%8D%95%E6%98%AF%E7%89%B9%E6%80%A7%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%A6%A5%E5%8D%8F;The+best+tool+is+the+one+you+use;Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=400&lines=%E5%BC%80%E6%BA%90%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%86%99%E6%96%87%E7%AB%A0;Write+with+heart%2C+build+with+purpose;Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG" />
 </div>
