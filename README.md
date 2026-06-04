@@ -131,6 +131,7 @@
 ### 🔗 社交链接
 
 <div align="center">
+  <a href="https://11suixing11.github.io/homepage/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_My_Homepage-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" /></a>
   <a href="https://github.com/11suixing11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://11suixing11.github.io/mindnotes-pro/"><img src="https://img.shields.io/badge/MindNotes_Pro-Live-2a0050?style=for-the-badge&logo=react&logoColor=00BCD4" alt="MindNotes Pro" /></a>
   <a href="https://11suixing11.github.io/quiz-platform/"><img src="https://img.shields.io/badge/Quiz_Platform-Live-2a0050?style=for-the-badge&logo=next.js&logoColor=00BCD4" alt="Quiz Platform" /></a>
