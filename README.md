@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=%E5%BC%80%E6%BA%90%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20Open%20Source%20Creator&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=%E5%BC%80%E6%BA%91%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20Open%20Source%20Creator&descAlignY=55&descSize=20&animation=twinkling" />
 
   <br />
 
@@ -66,8 +66,8 @@
         </a>
       </p>
       <p align="center">
-        <b>暖色纸纹画布笔记本，打开就能画。</b><br />
-        4 个依赖，0 CDN，纯本地运行。<br />
+        <b>本地优先白板，打开就能画。</b><br />
+        仅 3 个依赖，<1秒加载，零云端。<br />
         <code>TypeScript</code> <code>React</code> <code>Vite</code><br /><br />
         ⭐ 8 &nbsp;|&nbsp;
         <a href="https://11suixing11.github.io/mindnotes-pro/">🔗 Live</a>
@@ -149,5 +149,5 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=400&lines=%E5%BC%80%E6%BA%90%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%86%99%E6%96%87%E7%AB%A0;Write+with+heart%2C+build+with+purpose;Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=400&lines=%E5%BC%80%E6%BA%91%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%86%99%E6%96%87%E7%AB%A0;Write+with+heart%2C+build+with+purpose;Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG" />
 </div>
