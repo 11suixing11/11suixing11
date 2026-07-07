@@ -19,7 +19,7 @@ Right now most of my public work is around canvas interfaces, self-hostable fron
 | [mindnotes-pro](https://github.com/11suixing11/mindnotes-pro) | A local-first whiteboard built with React, TypeScript, Canvas, and Zustand. | Active |
 | [quiz-platform](https://github.com/11suixing11/quiz-platform) | A bilingual self-reflection quiz app with static delivery and local history. | Active |
 | [thesis-optimizer](https://github.com/11suixing11/thesis-optimizer) | An academic writing quality assistant focused on clarity, citations, formatting, and revision logs. | Being reframed around academic integrity |
-| [homepage](https://github.com/11suixing11/homepage) | A small personal site for projects and writing. | Maintained |
+| [homepage](https://github.com/11suixing11/homepage) | A small personal site for maintained projects, writing notes, and recent OSS work. | Maintained |
 
 ## Recent OSS Work
 
@@ -38,4 +38,4 @@ Right now most of my public work is around canvas interfaces, self-hostable fron
 
 I am based in China and usually write in Chinese or English. If you find a bug in one of my projects, a minimal reproduction or a short screen recording is the fastest way to help me fix it.
 
-Personal site: [11suixing11.github.io/homepage](https://11suixing11.github.io/homepage/)
+Personal site: [11suixing11.github.io/homepage](https://11suixing11.github.io/homepage/) for projects, notes, and recent contribution logs.
