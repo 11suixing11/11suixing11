@@ -24,6 +24,7 @@ Right now most of my public work is around canvas interfaces, self-hostable fron
 ## Recent OSS Work
 
 - [plait-board/drawnix#449](https://github.com/plait-board/drawnix/pull/449): fixed middle mouse panning behavior in freehand tools and added coverage for the regression.
+- [plait-board/drawnix#450](https://github.com/plait-board/drawnix/pull/450): fixed text style inlining for PNG export so multiline text is less likely to be clipped.
 
 ## How I Work
 
