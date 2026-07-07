@@ -21,6 +21,10 @@ Right now most of my public work is around canvas interfaces, self-hostable fron
 | [thesis-optimizer](https://github.com/11suixing11/thesis-optimizer) | An academic writing quality assistant focused on clarity, citations, formatting, and revision logs. | Being reframed around academic integrity |
 | [homepage](https://github.com/11suixing11/homepage) | A small personal site for projects and writing. | Maintained |
 
+## Recent OSS Work
+
+- [plait-board/drawnix#449](https://github.com/plait-board/drawnix/pull/449): fixed middle mouse panning behavior in freehand tools and added coverage for the regression.
+
 ## How I Work
 
 - I prefer small, reviewable changes with a clear reason.
