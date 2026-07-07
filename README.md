@@ -1,153 +1,36 @@
-﻿<div align="center">
+# 11suixing11
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21005D,4A148C,8E24AA,1E88E5,00BCD4&height=250&section=header&text=11suixing11&fontSize=60&fontAlignY=35&desc=%E5%BC%80%E6%BA%91%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20Open%20Source%20Creator&descAlignY=55&descSize=20&animation=twinkling" />
+I build small tools that are useful on the first open, with a bias toward local-first data, clear interaction details, and readable source code.
 
-  <br />
+Right now most of my public work is around canvas interfaces, self-hostable front-end tools, and AI-assisted workflows that keep a human in the loop. I am also putting more time into contributing to other maintainers' projects, because open source is healthier when it is conversation instead of a solo showcase.
 
-  <a href="https://github.com/11suixing11">
-    <img src="https://img.shields.io/badge/maomaoguai-2a0050?style=for-the-badge&logo=github&logoColor=8E24AA" alt="maomaoguai" />
-  </a>
-  <a href="https://github.com/11suixing11">
-    <img src="https://img.shields.io/badge/%E5%9B%9B%E5%B7%9D%E8%87%AA%E8%B4%A1-2a0050?style=for-the-badge&logo=googlemaps&logoColor=1E88E5" alt="Location" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=11suixing11&label=Profile%20Views&color=1E88E5&style=for-the-badge&base=2a0050" alt="Profile Views" />
-</div>
+## Current Focus
 
-<br />
+- Local-first drawing and thinking tools
+- Canvas interaction design: selection, keyboard shortcuts, export, performance
+- Practical front-end engineering with TypeScript, React, Vite, and Next.js
+- Documentation that explains tradeoffs instead of only listing features
+- Responsible AI tooling, especially where product wording changes user behavior
 
-> **开源创作者。** 做打开就能用的工具，写有温度的技术文章。开源不是免费劳动，是一种表达方式。
+## Maintained Projects
 
-<br />
+| Project | What it is | Status |
+| --- | --- | --- |
+| [mindnotes-pro](https://github.com/11suixing11/mindnotes-pro) | A local-first whiteboard built with React, TypeScript, Canvas, and Zustand. | Active |
+| [quiz-platform](https://github.com/11suixing11/quiz-platform) | A bilingual self-reflection quiz app with static delivery and local history. | Active |
+| [thesis-optimizer](https://github.com/11suixing11/thesis-optimizer) | An academic writing quality assistant focused on clarity, citations, formatting, and revision logs. | Being reframed around academic integrity |
+| [homepage](https://github.com/11suixing11/homepage) | A small personal site for projects and writing. | Maintained |
 
-### 🛠 Tech Stack
+## How I Work
 
-<div align="center">
+- I prefer small, reviewable changes with a clear reason.
+- I write down implementation tradeoffs, especially when a feature borrows from common design-tool patterns.
+- I keep user data local unless a project clearly says otherwise.
+- I treat AI output as a draft, not as authority.
+- I am learning to do more work in other projects' issue trackers and pull requests, not only in my own repos.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-2a0050?style=flat-square&logo=typescript&logoColor=1E88E5)
-![JavaScript](https://img.shields.io/badge/JavaScript-2a0050?style=flat-square&logo=javascript&logoColor=1E88E5)
-![Python](https://img.shields.io/badge/Python-2a0050?style=flat-square&logo=python&logoColor=1E88E5)
-![React](https://img.shields.io/badge/React-2a0050?style=flat-square&logo=react&logoColor=00BCD4)
-![Vite](https://img.shields.io/badge/Vite-2a0050?style=flat-square&logo=vite&logoColor=00BCD4)
-![Zustand](https://img.shields.io/badge/Zustand-2a0050?style=flat-square&logo=react&logoColor=8E24AA)
-![Canvas API](https://img.shields.io/badge/Canvas_API-2a0050?style=flat-square&logo=html5&logoColor=00BCD4)
-![Node.js](https://img.shields.io/badge/Node.js-2a0050?style=flat-square&logo=node.js&logoColor=8E24AA)
-![Next.js](https://img.shields.io/badge/Next.js-2a0050?style=flat-square&logo=next.js&logoColor=00BCD4)
+## Notes
 
-</div>
+I am based in China and usually write in Chinese or English. If you find a bug in one of my projects, a minimal reproduction or a short screen recording is the fastest way to help me fix it.
 
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11suixing11&show_icons=true&theme=nord&bg_color=0D1117&title_color=1E88E5&icon_color=8E24AA&text_color=A6ADC8&border_color=2a0050&hide_border=false&include_all_commits=true&count_private=true" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11suixing11&theme=nord&background=0D1117&ring=1E88E5&fire=8E24AA&currStreakNum=1E88E5&sideNums=A6ADC8&currStreakLabel=8E24AA&sideLabels=A6ADC8&dates=8E24AA&border=2a0050" height="192px" alt="GitHub Streak" />
-</div>
-
-<br />
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=11suixing11&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
-<br />
-
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🎨 MindNotes Pro</h3>
-      <p align="center">
-        <a href="https://github.com/11suixing11/mindnotes-pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=11suixing11&repo=mindnotes-pro&theme=nord&bg_color=0D1117&title_color=1E88E5&icon_color=8E24AA&text_color=A6ADC8&border_color=2a0050" alt="MindNotes Pro" />
-        </a>
-      </p>
-      <p align="center">
-        <b>本地优先白板，打开就能画。</b><br />
-        仅 3 个依赖，<1秒加载，零云端。<br />
-        <code>TypeScript</code> <code>React</code> <code>Vite</code><br /><br />
-        ⭐ 8 &nbsp;|&nbsp;
-        <a href="https://11suixing11.github.io/mindnotes-pro/">🔗 Live</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📝 Thesis Optimizer</h3>
-      <p align="center">
-        <a href="https://github.com/11suixing11/thesis-optimizer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=11suixing11&repo=thesis-optimizer&theme=nord&bg_color=0D1117&title_color=1E88E5&icon_color=8E24AA&text_color=A6ADC8&border_color=2a0050" alt="Thesis Optimizer" />
-        </a>
-      </p>
-      <p align="center">
-        <b>中文学术论文 4D 优化系统</b><br />
-        AI 检测降痕 · 查重降重 · 学术润色 · 格式规范<br />
-        <code>Python</code><br /><br />
-        ⭐ 1 &nbsp;|&nbsp;
-        Claude Code / Codex Skill
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌙 Quiz Platform</h3>
-      <p align="center">
-        <a href="https://github.com/11suixing11/quiz-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=11suixing11&repo=quiz-platform&theme=nord&bg_color=0D1117&title_color=1E88E5&icon_color=8E24AA&text_color=A6ADC8&border_color=2a0050" alt="Quiz Platform" />
-        </a>
-      </p>
-      <p align="center">
-        <b>认识你自己 — 内在探索平台</b><br />
-        113 个心理测试 + MBTI 关系配对<br />
-        <code>TypeScript</code> <code>Next.js</code> <code>Tailwind</code><br /><br />
-        ⭐ 1 &nbsp;|&nbsp;
-        <a href="https://11suixing11.github.io/quiz-platform/">🔗 Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-### ✍️ Writing & Content
-
-> 我相信好的开源项目需要好的故事。每个项目配套技术文章，讲清楚**为什么做**、**怎么想的**、**踩了什么坑**。
-
-- 📝 每个项目配套技术博客
-- 🎯 专注：前端工程化 · AI 工具链 · 产品设计哲学
-- 🌍 分发：掘金 · V2EX · 知乎 · GitHub Blog
-
-<div align="right">
-  <a href="https://github.com/11suixing11?tab=repositories">View All Projects →</a>
-</div>
-
-<br />
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11suixing11&bg_color=0D1117&color=1E88E5&line=8E24AA&point=00BCD4&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br />
-
-### 💡 理念
-
-- **开源是一种表达。** 不是免费劳动，是把想法变成所有人能用的东西。
-- **文章是项目的另一半。** 代码解决功能问题，文章解决认知问题。
-- **好的工具不需要说明书。** 打开就该能用，用起来就该舒服。
-
-<br />
-
-### 🔗 社交链接
-
-<div align="center">
-  <a href="https://11suixing11.github.io/homepage/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_My_Homepage-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" /></a>
-  <a href="https://github.com/11suixing11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://11suixing11.github.io/mindnotes-pro/"><img src="https://img.shields.io/badge/MindNotes_Pro-Live-2a0050?style=for-the-badge&logo=react&logoColor=00BCD4" alt="MindNotes Pro" /></a>
-  <a href="https://11suixing11.github.io/quiz-platform/"><img src="https://img.shields.io/badge/Quiz_Platform-Live-2a0050?style=for-the-badge&logo=next.js&logoColor=00BCD4" alt="Quiz Platform" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8E24AA&center=true&vCenter=true&width=400&lines=%E5%BC%80%E6%BA%91%E5%88%9B%E4%BD%9C%E8%80%85%20%7C%20%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%86%99%E6%96%87%E7%AB%A0;Write+with+heart%2C+build+with+purpose;Made+with+%E2%9D%A4%EF%B8%8F+by+11suixing11" alt="Typing SVG" />
-</div>
+Personal site: [11suixing11.github.io/homepage](https://11suixing11.github.io/homepage/)
