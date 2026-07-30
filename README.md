@@ -1,41 +1,55 @@
-# 11suixing11
+# kittydev / 11suixing11
 
-I build small tools that are useful on the first open, with a bias toward local-first data, clear interaction details, and readable source code.
+I contribute to open-source TypeScript and React projects, with a focus on
+Canvas interactions, accessible UI behavior, and changes that remain
+understandable after review.
 
-Right now most of my public work is around canvas interfaces, self-hostable front-end tools, and AI-assisted workflows that keep a human in the loop. I am also putting more time into contributing to other maintainers' projects, because open source is healthier when it is conversation instead of a solo showcase.
+## Upstream Focus
 
-## Current Focus
+- [zimme-zoom](https://github.com/kulcsarrudolf/zimme-zoom)
+  Image-viewer behavior, accessibility, packaging, and CI boundaries.
+- [drawnix](https://github.com/plait-board/drawnix)
+  Canvas input and whiteboard interaction behavior.
+- Small fixes with a reproducible failure, focused regression coverage, and a
+  clear maintenance boundary.
 
-- Local-first drawing and thinking tools
-- Canvas interaction design: selection, keyboard shortcuts, export, performance
-- Practical front-end engineering with TypeScript, React, Vite, and Next.js
-- Documentation that explains tradeoffs instead of only listing features
-- Responsible AI tooling, especially where product wording changes user behavior
+## Maintained Work
 
-## Maintained Projects
+- [mindnotes-pro](https://github.com/11suixing11/mindnotes-pro)
+  A local-first whiteboard built with React, TypeScript, Canvas, and Zustand.
+- [Athena](https://github.com/11suixing11/athena)
+  A self-hosted journaling and archive app with a Go server, PWA client, and
+  optional desktop shell.
+- [Personal homepage](https://11suixing11.github.io/homepage/)
+  A small project index and maintenance log for selected work.
 
-| Project | What it is | Status |
-| --- | --- | --- |
-| [mindnotes-pro](https://github.com/11suixing11/mindnotes-pro) | A local-first whiteboard built with React, TypeScript, Canvas, and Zustand. | Active |
-| [quiz-platform](https://github.com/11suixing11/quiz-platform) | A bilingual self-reflection quiz app with static delivery and local history. | Active |
-| [thesis-optimizer](https://github.com/11suixing11/thesis-optimizer) | An academic writing quality assistant focused on clarity, citations, formatting, and revision logs. | Being reframed around academic integrity |
-| [homepage](https://github.com/11suixing11/homepage) | A small personal site for maintained projects, writing notes, and recent OSS work. | Maintained |
+## Selected Merged Contributions
 
-## Recent OSS Work
-
-- [plait-board/drawnix#449](https://github.com/plait-board/drawnix/pull/449): fixed middle mouse panning behavior in freehand tools and added coverage for the regression.
-- [plait-board/drawnix#450](https://github.com/plait-board/drawnix/pull/450): fixed text style inlining for PNG export so multiline text is less likely to be clipped.
+- [zimme-zoom#47](https://github.com/kulcsarrudolf/zimme-zoom/pull/47)
+  Hardened PhotoViewer portal and background accessibility behavior through
+  maintainer review.
+- [zimme-zoom#43](https://github.com/kulcsarrudolf/zimme-zoom/pull/43)
+  Added bundle-size and tree-shaking guards with Node 20 coverage.
+- [drawnix#449](https://github.com/plait-board/drawnix/pull/449)
+  Fixed middle-mouse panning in freehand tools after two maintainer reviews.
+- [mdx-editor#952](https://github.com/mdx-editor/editor/pull/952)
+  Made Markdown heading shortcuts respect configured heading levels.
+- [markamd#127](https://github.com/mattenarle10/markamd/pull/127)
+  Restored reliable active-file reloads with immediate watcher events.
 
 ## How I Work
 
 - I prefer small, reviewable changes with a clear reason.
-- I write down implementation tradeoffs, especially when a feature borrows from common design-tool patterns.
-- I keep user data local unless a project clearly says otherwise.
-- I treat AI output as a draft, not as authority.
-- I am learning to do more work in other projects' issue trackers and pull requests, not only in my own repos.
+- I reproduce behavior and add focused regression coverage before widening the
+  scope.
+- I answer review comments directly on the thread that raised them.
+- I keep one contribution in review per upstream repository unless a maintainer
+  asks for a split.
+- I treat project conventions and scope boundaries as part of the implementation.
 
 ## Notes
 
-I am based in China and usually write in Chinese or English. If you find a bug in one of my projects, a minimal reproduction or a short screen recording is the fastest way to help me fix it.
+I am based in China and work in English or Chinese. For project-specific
+questions, an issue with a minimal reproduction is the best place to start.
 
-Personal site: [11suixing11.github.io/homepage](https://11suixing11.github.io/homepage/) for projects, notes, and recent contribution logs.
+Personal site: [homepage](https://11suixing11.github.io/homepage/).
