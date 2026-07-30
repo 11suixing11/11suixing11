@@ -34,8 +34,9 @@ understandable after review.
   Fixed middle-mouse panning in freehand tools after two maintainer reviews.
 - [mdx-editor#952](https://github.com/mdx-editor/editor/pull/952)
   Made Markdown heading shortcuts respect configured heading levels.
-- [markamd#127](https://github.com/mattenarle10/markamd/pull/127)
-  Restored reliable active-file reloads with immediate watcher events.
+- [x-twitter-scraper-typescript#21](https://github.com/Xquik-dev/x-twitter-scraper-typescript/pull/21)
+  Added a compile-only quickstart check and carried it through dependency-audit
+  and DCO review.
 
 ## How I Work
 
