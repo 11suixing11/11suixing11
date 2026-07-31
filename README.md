@@ -8,8 +8,8 @@ understandable after review.
 
 - [zimme-zoom](https://github.com/kulcsarrudolf/zimme-zoom)
   Image-viewer behavior, accessibility, packaging, and CI boundaries.
-- [drawnix](https://github.com/plait-board/drawnix)
-  Canvas input and whiteboard interaction behavior.
+- [runreplay](https://github.com/shleder/runreplay)
+  Inspectable GitHub Actions runs with explicit CLI and artifact boundaries.
 - Small fixes with a reproducible failure, focused regression coverage, and a
   clear maintenance boundary.
 
@@ -17,6 +17,7 @@ understandable after review.
 
 - [mindnotes-pro](https://github.com/11suixing11/mindnotes-pro)
   A local-first whiteboard built with React, TypeScript, Canvas, and Zustand.
+  The current supported release is [v4.0.0](https://github.com/11suixing11/mindnotes-pro/releases/tag/v4.0.0).
 - [Athena](https://github.com/11suixing11/athena)
   A self-hosted journaling and archive app with a Go server, PWA client, and
   optional desktop shell.
@@ -37,6 +38,8 @@ understandable after review.
 - [x-twitter-scraper-typescript#21](https://github.com/Xquik-dev/x-twitter-scraper-typescript/pull/21)
   Added a compile-only quickstart check and carried it through dependency-audit
   and DCO review.
+- [signature_pad#890](https://github.com/szimek/signature_pad/pull/890)
+  Fixed rendering for two-point point groups in the maintained canvas path.
 
 ## How I Work
 
@@ -44,8 +47,9 @@ understandable after review.
 - I reproduce behavior and add focused regression coverage before widening the
   scope.
 - I answer review comments directly on the thread that raised them.
-- I keep one contribution in review per upstream repository unless a maintainer
-  asks for a split.
+- I am reducing the current external backlog before starting new work. After it
+  is clear, I cap external work at three concurrent PRs and one open PR per
+  upstream repository unless a maintainer asks for a split.
 - I treat project conventions and scope boundaries as part of the implementation.
 
 ## Notes
