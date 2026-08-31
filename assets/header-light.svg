@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img"
+     aria-label="kitty (11suixing11) — open-source contributor working on TypeScript, React and Canvas interactions">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#f7f8fb"/>
+      <stop offset="1" stop-color="#e6f2ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#087f73" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#087f73" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b5f71"/>
+      <stop offset="1" stop-color="#087f73"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#8fa3a8" fill-opacity="0.55"/>
+    </pattern>
+    <style>
+      .n { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="298" rx="16" fill="url(#bg)" stroke="#d8dee7"/>
+  <ellipse cx="1040" cy="150" rx="300" ry="190" fill="url(#glow)"/>
+  <rect x="836" y="52" width="384" height="196" fill="url(#dots)"/>
+
+  <!-- vector-editor motif: a freehand stroke with live anchors and tangent handles -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 858 208 C 906 118 962 246 1024 158 S 1136 74 1198 122"
+          stroke="url(#stroke)" stroke-width="3.5"/>
+    <g stroke="#0b5f71" stroke-opacity="0.42" stroke-width="1.4">
+      <path d="M 992 232 L 1024 158 L 1064 106"/>
+      <path d="M 1160 66 L 1198 122"/>
+    </g>
+    <g stroke="#0b5f71" stroke-opacity="0.42" stroke-width="1.4" fill="#f7f8fb">
+      <circle cx="992" cy="232" r="4"/>
+      <circle cx="1064" cy="106" r="4"/>
+      <circle cx="1160" cy="66" r="4"/>
+    </g>
+    <g fill="#ffffff" stroke="#087f73" stroke-width="2.4">
+      <rect x="853" y="203" width="10" height="10" rx="1.5"/>
+      <rect x="1019" y="153" width="10" height="10" rx="1.5"/>
+      <rect x="1193" y="117" width="10" height="10" rx="1.5"/>
+    </g>
+    <rect x="1000" y="134" width="48" height="48" rx="3" stroke="#087f73" stroke-opacity="0.5"
+          stroke-width="1.3" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- identity -->
+  <text class="m" x="64" y="76" font-size="15" letter-spacing="3.4" fill="#5d6877">@11SUIXING11</text>
+  <text class="n" x="62" y="140" font-size="60" font-weight="700" letter-spacing="-1.4" fill="#18202b">kitty</text>
+  <rect x="64" y="162" width="58" height="4" rx="2" fill="#087f73"/>
+
+  <text class="n" x="64" y="204" font-size="20" fill="#3b4655">Open-source contributor — Canvas interactions, accessible UI</text>
+  <text class="n" x="64" y="232" font-size="20" fill="#3b4655">behavior, and changes that stay readable after review.</text>
+
+  <!-- facts -->
+  <g class="n" font-size="14.5" font-weight="600" text-anchor="middle">
+    <g fill="none" stroke="#087f73" stroke-opacity="0.4">
+      <rect x="64" y="256" width="132" height="30" rx="15"/>
+      <rect x="206" y="256" width="150" height="30" rx="15"/>
+      <rect x="366" y="256" width="170" height="30" rx="15"/>
+    </g>
+    <g fill="#0b5f71">
+      <text x="130" y="275.5">24 merged PRs</text>
+      <text x="281" y="275.5">18 upstream repos</text>
+      <text x="451" y="275.5">3 maintained projects</text>
+    </g>
+  </g>
+</svg>
