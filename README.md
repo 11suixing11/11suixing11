@@ -9,6 +9,9 @@ handling on Canvas, focus and keyboard behavior, and packaging boundaries. Most 
 I send upstream is small on purpose — a reproducible failure, the narrowest fix for it,
 and regression coverage that explains why the fix is there.
 
+Longer build logs and engineering notes live on the
+[blog](https://11suixing11.github.io/homepage/).
+
 ## Maintained
 
 | Project | What it does | Stack | Release |
@@ -67,7 +70,8 @@ project carries:
 
 ## Elsewhere
 
-[Homepage](https://11suixing11.github.io/homepage/) — project index and maintenance log ·
+[Blog](https://11suixing11.github.io/homepage/) · [Blog source](https://github.com/11suixing11/homepage) ·
+project index and maintenance log ·
 based in China, working in English or Chinese.
 
 The fastest way to reach me about a project is an issue with a minimal reproduction.
