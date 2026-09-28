@@ -71,7 +71,7 @@ project carries:
 ## Elsewhere
 
 [Blog](https://11suixing11.github.io/homepage/) · [Blog source](https://github.com/11suixing11/homepage) ·
-project index and maintenance log ·
+engineering notes, build logs, and maintenance writing ·
 based in China, working in English or Chinese.
 
 The fastest way to reach me about a project is an issue with a minimal reproduction.
